@@ -12,4 +12,5 @@ The analysis includes:
 - Visualization of budget distribution across ministries
 
 This notebook was developed in Google Colab.
+
 https://colab.research.google.com/drive/1ZiZwVZD_CykzZdevveWTtbJj5TWRkLaV?usp=sharing
